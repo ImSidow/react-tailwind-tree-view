@@ -107,7 +107,6 @@ const accounts: TreeViewDataType<{ balance: number }>[] = [
     },
 ];
 
-// some bug fixed
 function App() {
     return (
         <div className="h-screen flex justify-center pt-10">
